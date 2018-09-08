@@ -1,6 +1,11 @@
 This is another attempt to use branching
+<<<<<<< HEAD
 
 
 Testing.
 
 Test again.
+=======
+blablabla
+Another message.
+>>>>>>> anothername
