@@ -1,3 +1,5 @@
 Try commits in feature1 branch.
 Add another commit in feature1 branch.
 One more commit.
+
+Try conflict on mater.
