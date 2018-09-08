@@ -1,2 +1,4 @@
 Try commits in feature1 branch.
 Add another commit in feature1 branch.
+
+Try conflict.
